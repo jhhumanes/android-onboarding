@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+
+    <string name="skip">Saltar</string>
+    <string name="get_started">Comenzar</string>
+
+    <string name="planning_title">Planificación</string>
+    <string name="planning_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis finibus arcu in velit eleifend mattis. Phasellus tempor vel elit quis molestie. Vestibulum tincidunt commodo leo malesuada eleifend.</string>
+
+    <string name="communication_title">Comunicación</string>
+    <string name="communication_description">Curabitur ut semper nunc, consequat tincidunt turpis. Nam faucibus vitae leo a posuere. Nulla facilisi. Vivamus gravida, leo at rutrum lobortis, velit augue tincidunt dolor, ac vestibulum odio sem in sem. Integer viverra elit ut iaculis vehicula.</string>
+
+    <string name="team_title">Equipo</string>
+    <string name="team_description">Curabitur ut fringilla lacus. Vivamus sem lorem, iaculis feugiat facilisis sed, porttitor vel libero. Maecenas iaculis tempor velit eu semper. Pellentesque dictum nibh in libero fringilla, ut malesuada lacus mattis.</string>
+    <string name="home_message">Empezamos...</string>
+</resources>
